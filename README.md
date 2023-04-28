@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ojaswee
-<h3 align="left">A passionate Data Science student from IISER Bhopal, India</h3>
+<h3 align="left">A passionate Data Science student from IISER Bhopal, India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojojaswee&label=Profile%20views&color=0e75b6&style=flat" alt="ojojaswee" /> </p>
 
 - 🔭 I’m currently working on **Adversarial Attacks on Deep Neural Networks**
