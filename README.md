@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ojaswee</h1>
 <h3 align="center">A passionate Data Science student from IISER Bhopal</h3>
-
+<h4 align="left ">AI is likely to be either the best or worst thing to happen to humanity.</h4>
+<h4 align="right ">-Elon Musk</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojojaswee&label=Profile%20views&color=0e75b6&style=flat" alt="ojojaswee" /> </p>
 
 - 🔭 I’m currently working on **Adversarial Attacks on Deep Neural Networks**
