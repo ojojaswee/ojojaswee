@@ -30,3 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojojaswee&show_icons=true&locale=en" alt="ojojaswee" /></p>
 
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
