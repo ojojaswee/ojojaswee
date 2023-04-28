@@ -28,8 +28,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojojaswee&show_icons=true&locale=en" alt="ojojaswee" /></p>
 
-<h4 align="left ">AI is likely to be either the best or worst thing to happen to humanity.</h4>
-<h4 align="right ">-Elon Musk</h4>
+
+### ✍️ Random Dev Quote
+AI is likely to be either the best or worst thing to happen to humanity.
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
