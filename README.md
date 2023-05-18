@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Adversarial Training**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Time forecast**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Time Series Analysis and Forecast**
 
 - 📫 Reach me at **ojojaswee@gmail.com**
 
