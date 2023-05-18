@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 👯 I’m looking to collaborate on **Machine learning and Deep Learning**
+- 👯 I’m looking to collaborate on **Adversarial Attacks on Deep Neural Networks**
 
 - 🤝 I’m looking for help with **Adversarial Training**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Time forecast**
 
-- 📫 How to reach me **ojojaswee@gmail.com**
+- 📫 Reach me at **ojojaswee@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1A8Yc6FjB07i7___IqTqHtd0c8OYmr9iR/view?usp=sharing](https://drive.google.com/file/d/1A8Yc6FjB07i7___IqTqHtd0c8OYmr9iR/view?usp=sharing)
 
