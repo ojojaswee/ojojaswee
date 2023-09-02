@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **ojojaswee@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A8Yc6FjB07i7___IqTqHtd0c8OYmr9iR/view?usp=sharing](https://drive.google.com/file/d/1A8Yc6FjB07i7___IqTqHtd0c8OYmr9iR/view?usp=sharing)
+- 📄 Know about my experiences [CV.pdf](https://drive.google.com/file/d/162y-03IEJVyJ2kUvfnCeTj8EjVd4kz70/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
