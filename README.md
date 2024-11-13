@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ojaswee
-<h3 align="left">A passionate MS in Data Science and Engineering student from IISER Bhopal, India. </h3>
+<h3 align="left">I am a recent graduate with a BS-MS dual degree in Data Science and Engineering from IISER Bhopal, where I specialized in machine learning, computer vision, and AI. My research has focused on adversarial machine learning and image classification, with publications in top conferences like IEEE CVPR and ICCV. I have interned at institutions like IISc Bangalore and IIT Jodhpur, working on projects ranging from contrastive learning and adversarial robustness to Indian Sign Language recognition. I am passionate about leveraging AI to solve real-world challenges and continuously seek to push the boundaries of these technologies. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojojaswee&label=Profile%20views&color=0e75b6&style=flat" alt="ojojaswee" /> </p>
 
 <!-- - 🔭 I’m currently working on **Adversarial Attacks on Deep Neural Networks**
